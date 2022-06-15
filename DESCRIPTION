@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+Pulls
+Issues
+Marketplace
+Explore
+ 
+@JustMJ 
+JustMJ
+/
+dawgdown
+Public
+forked from ksauby/thesisdownufl
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+dawgdown/DESCRIPTION
+@JustMJ
+JustMJ Update DESCRIPTION
+Latest commit f39acbc 31 seconds ago
+ History
+ 3 contributors
+@JustMJ@ismayc@ksauby
+30 lines (30 sloc)  1.09 KB
+
+
 Package: dawgdown
 Title: An updated R Markdown thesis template using the bookdown package
 Version: 0.1.0
@@ -5,7 +36,7 @@ Authors@R: c(
     person("Chester", "Ismay", email = "chester.ismay@gmail.com", role = "aut"),
     person("Nick", "Solomon", email = "nick@nicksolomon.me", role = "aut"),
     person("Kelsey", "Gonzalez", email = "KelseyGonzalez@email.arizona.edu", role = "aut"),
-    person("Justin", "Jones", email = "justinmjones23@gmail.com", role = c("cre", "aut"))
+    person("Justin", "Jones", email = "justinmjones23@gmail.com", role = c("cre", "aut")))
 Description: Using the bookdown package and LaTeX and Word thesis templates from
     Reed College, this package aims to encourage reproducible research using
     simple Markdown syntax while embedding all of the R code to produce plots
@@ -28,3 +59,16 @@ Encoding: UTF-8
 LazyData: true
 SystemRequirements: pandoc (>= 1.18) - https://pandoc.org
 RoxygenNote: 7.1.0
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
