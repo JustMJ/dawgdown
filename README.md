@@ -22,7 +22,7 @@ To use **dawgdown** from [RStudio](https://www.rstudio.com/products/rstudio/down
 ```r
 if (!require("remotes")) install.packages("remotes", repos = "https://cran.rstudio.org")
 remotes::install_github("rstudio/bookdown")
-remotes::install_github("kelseygonzalez/dawgdown")
+remotes::install_github("JustMJ/dawgdown")
 ```
 
 Note that you may need to restart RStudio at this point for the following dialog to show up.
