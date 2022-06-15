@@ -1,16 +1,17 @@
-Package: beardown
+Package: dawgdown
 Title: An updated R Markdown thesis template using the bookdown package
 Version: 0.1.0
 Authors@R: c(
     person("Chester", "Ismay", email = "chester.ismay@gmail.com", role = c("cre", "aut")),
     person("Nick", "Solomon", email = "nick@nicksolomon.me", role = "aut"),
-    person("Kelsey", "Gonzalez", email = "KelseyGonzalez@email.arizona.edu", role = "aut"))
+    person("Kelsey", "Gonzalez", email = "KelseyGonzalez@email.arizona.edu", role = "aut")),
+    person("Justin", "Jones", email = "justinmjones23@gmail.com", role = c("aut"))
 Description: Using the bookdown package and LaTeX and Word thesis templates from
     Reed College, this package aims to encourage reproducible research using
     simple Markdown syntax while embedding all of the R code to produce plots
-    and analyses as well. Beardown specifically works for the University of Arizona
+    and analyses as well. Dawgdown specifically works for the University of Georgia
     Dissertation format.
-Maintainer: Kelsey Gonzalez <KelseyGonzalez@email.arizona.edu>
+Maintainer: Justin Jones <justinmjones23@gmail.com>
 Depends:
     R (>= 3.2.0)
 Imports: 
