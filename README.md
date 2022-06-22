@@ -1,5 +1,7 @@
 # dawgdown
 
+**Warning** Dawgdown is still under development and shouldn't be used. It currently does not conform to the UGA dissertation formatting guidelines.
+
 A package for dissertation writing at the University of Georgia based off the [thesisdown](https://github.com/ismayc/thesisdown) R package and the UGA Latex dissertation template.
 
 ### Using Dawgdown
